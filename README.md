@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Zarnab Imran<br><br>💻 Full Stack Developer | React.js | Next.js | Nest.js | .Net | Go<br><br>I’m a Full Stack Developer with 4+ years of experience building scalable and high-performance web applications. I specialize in creating modern frontend experiences with React.js / Next.js and robust backend systems using Nest.js / Node.js / Go. / .Net <br><br>🚀 Tech Stack<br><br>Frontend: React.js, Next.js, TypeScript<br>Backend: Nest.js, Node.js, Go, REST APIs<br>Database: PostgreSQL, MongoDB, MySQL, Oracle<br>Tools: Docker, Git, AWS<br><br>📫 Open to exciting projects and collaborations.<br>Let’s build something impactful!
+👋 Hi, I'm Zarnab Imran<br><br>💻 Full Stack Developer | React.js | Next.js | Nest.js | .Net | Go<br><br>I’m a Full Stack Developer with 4+ years of experience building scalable and high-performance web applications. I specialize in creating modern frontend experiences with React.js / Next.js and robust backend systems using Nest.js / Node.js / Go. / .Net <br><br>🚀 Tech Stack<br><br>Frontend: React.js, Next.js, TypeScript<br>Backend: Nest.js, Node.js, Go, .Net, REST APIs<br>Database: PostgreSQL, MongoDB, MySQL, Oracle<br>Tools: Docker, Git, AWS<br><br>📫 Open to exciting projects and collaborations.<br>Let’s build something impactful!
 
 ## 🌐 Socials:
 
